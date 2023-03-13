@@ -1,4 +1,4 @@
 #### 👋 Hi, I'm JoaStuart ~ Joa
 #### 💻 Always coding in my free time, mostly Minecraft plugins/mods right now
-#### 📱 [TopiaCommunity Discord](https://discord.gg/MAhdHZzdQE)
+#### 📱 [Project Discord](https://discord.com/invite/EguMCmBTMn)
 #### 💡 Big projects coming soon...
