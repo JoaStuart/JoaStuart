@@ -1,9 +1,5 @@
 # 💫 About Me
-👋 Hi there!
-🔭 Working on dumb ideas I had in the weirdest moments
-👯 Down to collab on basically anything
-💬 Contact me on Discord @joastuart
-⚡ Started coding because of Minecraft 😅
+👋 Hi there!<br>🔭 Working on dumb ideas I had in the weirdest moments<br>👯 Down to collab on basically anything<br>💬 Contact me on Discord @joastuart<br>⚡ Started coding because of Minecraft 😅
 
 
 ## 🌐 Socials
