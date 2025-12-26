@@ -38,31 +38,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-## 🎆 My 2024
-
-### Top languages
-
-|                                                               |                                                                                                                     |              |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------ |
-| ![1](https://img.shields.io/badge/1-gold.svg?style=flat)      | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)                       | 13.553 lines |
-| ![2](https://img.shields.io/badge/2-silver.svg?style=flat)    | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)                    | 3.500 lines  |
-| ![3](https://img.shields.io/badge/3-%23cd7f32.svg?style=flat) | ![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=flat&logo=css&logoColor=white)                          | 8.203 lines  |
-| ![4](https://img.shields.io/badge/4-gray.svg?style=flat)      | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | 3.143 lines  |
-
-### My work
-
-|                                                            |                                                                           |      |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------- | ---- |
-| ![1](https://img.shields.io/badge/1-gold.svg?style=flat)   | ![Public](https://img.shields.io/badge/Public-%2328a745.svg?style=flat)   | ~71% |
-| ![2](https://img.shields.io/badge/2-silver.svg?style=flat) | ![Private](https://img.shields.io/badge/Private-%23d73a49.svg?style=flat) | ~29% |
-
-## 📊 GitHub Stats
-
-![ ](https://github-readme-stats.vercel.app/api?username=JoaStuart&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-
-![ ](https://github-readme-streak-stats.herokuapp.com/?user=JoaStuart&theme=transparent&hide_border=false)
-
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaStuart&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📁 My Projects
 
